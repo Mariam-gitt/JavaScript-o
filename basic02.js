@@ -67,7 +67,7 @@ console.log(typeof myArray);
 
 function atHome(){
 
-console.log("The need to be liked is the surest sign of weakness!");
+console.log("");
 
 }
 atHome();
