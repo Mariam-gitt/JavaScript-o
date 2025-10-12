@@ -28,6 +28,7 @@ let str="madam";
 // Loop to check if the string is a palindrome
 // Only need to check up to half the string
 for (let i=0; i<str.length/2; i++){
+
   // Compare character from start and end
   if (str[i]!==str[str.length-1-i]){     
     console.log("not a palindrome"); // If mismatch, not a palindrome
